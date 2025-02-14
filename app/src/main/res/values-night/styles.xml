@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomText" parent="android:Widget.Material.TextView">
+        <item name="android:textColor">#FFFF00</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:fontFamily">monospace</item>
+    </style>
+    <style name="ToDoTitle" parent="android:Widget.Material.TextView">
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

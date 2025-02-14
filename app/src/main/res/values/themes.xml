@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.JetSampler" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionBarPopupTheme">@style/PopupOverlay</item>
+    </style>
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="iconTint">@android:color/white</item>
+    </style>
+</resources>

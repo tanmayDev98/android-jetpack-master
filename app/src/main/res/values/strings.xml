@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JetPack Master</string>
+    <string name="color_template">#%1$08x</string>
+    <string name="btn_add">Add</string>
+    <string name="menu_about">About</string>
+    <string name="btn_pick">Pick</string>
+    <string name="btn_view">View</string>
+    <string name="msg_empty">No Task Found</string>
+    <string name="label_created">Created</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_words">Words</string>
+    <string name="download_btn_title">Download</string>
+</resources>
